@@ -1,0 +1,44 @@
+# Directories for generated outputs
+generated_images/
+checkpoints/
+generated_single/
+generated_output/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# PyTorch
+*.pth
+*.pt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
